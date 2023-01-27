@@ -1,7 +1,7 @@
 import React from 'react'
 import { ImMenu3 } from 'react-icons/im'
 import { AiOutlineDown } from 'react-icons/ai'
-import logo from '../assets/Logo.svg'
+import logo from '../assets/logo.svg'
 
 const Navbar = () => {
     return (
