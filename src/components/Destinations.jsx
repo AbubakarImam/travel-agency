@@ -1,6 +1,6 @@
-import destination1 from '../assets/rectangle14.png'
-import destination2 from '../assets/rectangle15.jpg'
-import destination3 from '../assets/rectangle16.png'
+import destination1 from '../assets/rectangleonefour.png'
+import destination2 from '../assets/rectangleonefive.jpg'
+import destination3 from '../assets/rectangleonesix.png'
 import { FaLocationArrow } from 'react-icons/fa'
 
 const Destinations = () => {

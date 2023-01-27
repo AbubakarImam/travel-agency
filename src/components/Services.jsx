@@ -1,7 +1,7 @@
-import dish from '../assets/group48.svg'
-import plane from '../assets/group90.svg'
-import mic from '../assets/group50.svg'
-import nut from '../assets/group49.svg'
+import dish from '../assets/groupfoureight.svg'
+import plane from '../assets/groupninety.svg'
+import mic from '../assets/groupfifty.svg'
+import nut from '../assets/groupfournine.svg'
 
 const Services = () => {
     const services = [
