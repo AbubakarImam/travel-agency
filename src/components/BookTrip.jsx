@@ -1,8 +1,8 @@
 import React from 'react'
-import icon1 from '../assets/group12.png'
-import icon2 from '../assets/group11.png'
-import icon3 from '../assets/group7.png'
-import rome from '../assets/rectangle17.jpg'
+import icon1 from '../assets/grouptwelve.png'
+import icon2 from '../assets/groupeleven.png'
+import icon3 from '../assets/groupseven.png'
+import rome from '../assets/rectangleoneseven.jpg'
 import { FaMap, FaLocationArrow, FaLeaf } from 'react-icons/fa'
 
 const BookTrip = () => {
